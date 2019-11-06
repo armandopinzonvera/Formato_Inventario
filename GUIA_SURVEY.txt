@@ -1,0 +1,17 @@
+* Formato Inventario y registro vivero Flor Morada
+
+Estructura
+
+	1. Ingresos: 
+	* fecha
+	* segmento (radio button: planta | material | implemento | )
+	//*(planta) grupo : bonsai, follaje, flor, orquidea, bromelia, 
+		* taxonomia: familia - especie - nombre comun - id - cantidad
+		* Procedencia: silvestre - localidad
+			comercio - vivero
+			valor:
+	//*(material): tipo : sustrato, agroquimico, recipiente
+			* definir: 
+
+
+Funcionalidad
